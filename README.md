@@ -1,5 +1,7 @@
 # weather-app
-##Day-1
+
+## Day-1
+
 ## Project setup
 ```
 yarn install
