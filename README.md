@@ -1,6 +1,6 @@
 # weather-app
 
-## Day-1=Vue.js Challenge
+## Vue.js Challenge:Day-1
 
 ## Project setup
 ```
